@@ -263,7 +263,7 @@ input, select, textarea, input[type="text"], input[type="date"], input[type="url
 
 .main-menu ul.navbar-nav li a {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  color: #6a0194;
+  color: #000000;
   font-size: 15px;
   font-weight: 500;
   padding: 24px 0px;
@@ -291,7 +291,7 @@ input, select, textarea, input[type="text"], input[type="date"], input[type="url
 
 .main-menu ul.navbar-nav li.active a {
   background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
-  color: #6a0194;
+  color: #3EC1D5!important;
   position: relative;
 }
 
@@ -330,8 +330,8 @@ input, select, textarea, input[type="text"], input[type="date"], input[type="url
 }
 
 .navbar-default .navbar-toggle .icon-bar {
-  background-color: #fff;
-  width: 30px;
+  background-color: #000000;
+  width: 22px;
   height: 2px;
 }
 
@@ -437,7 +437,6 @@ input, select, textarea, input[type="text"], input[type="date"], input[type="url
 
 .stick .main-menu ul.nav>li>a {
   color: #fff;
-  line-height: 22px;
   padding: 24px 0px;
   text-transform: capitalize;
   letter-spacing: 1px;
@@ -445,8 +444,6 @@ input, select, textarea, input[type="text"], input[type="date"], input[type="url
 
 .stick .navbar-default .navbar-toggle .icon-bar {
   background-color: #fff;
-  width: 30px;
-  height: 2px;
 }
 
 .stick .navbar-default .navbar-toggle {
