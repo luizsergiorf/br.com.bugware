@@ -296,7 +296,7 @@ input, select, textarea, input[type="text"], input[type="date"], input[type="url
 }
 
 .main-menu ul.navbar-nav li a:hover {
-  color: #97e6b9;
+  color: #3f184c;
 }
 
 .navbar {
@@ -322,7 +322,6 @@ input, select, textarea, input[type="text"], input[type="date"], input[type="url
 
 .navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
   background-color: transparent;
-  color: #fff;
 }
 
 .navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
@@ -365,7 +364,7 @@ input, select, textarea, input[type="text"], input[type="date"], input[type="url
 /*--------------------------------*/
 
 .header-area.stick {
-  background-color: rgba(255, 255, 255, 0.88);
+  background-color: rgba(255, 255, 255);
   height: 70px;
   position: fixed;
   top: 0;
@@ -408,7 +407,7 @@ input, select, textarea, input[type="text"], input[type="date"], input[type="url
 }
 
 .stick .main-menu ul.nav>li>a:hover {
-  color: #fff;
+  color: #3f184c;
 }
 
 .stick .main-menu ul.navbar-nav li.active a {
@@ -436,7 +435,7 @@ input, select, textarea, input[type="text"], input[type="date"], input[type="url
 }
 
 .stick .main-menu ul.nav>li>a {
-  color: #3f184c;
+  color: #000000;
   padding: 24px 0px;
   text-transform: capitalize;
   letter-spacing: 1px;
