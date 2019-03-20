@@ -435,14 +435,13 @@ input, select, textarea, input[type="text"], input[type="date"], input[type="url
 }
 
 .stick .main-menu ul.nav>li>a {
-  color: #000000;
   padding: 24px 0px;
   text-transform: capitalize;
   letter-spacing: 1px;
 }
 
 .stick .navbar-default .navbar-toggle .icon-bar {
-  background-color: #fff;
+  background-color: #000000;
 }
 
 .stick .navbar-default .navbar-toggle {
